@@ -1,4 +1,4 @@
-#Greedy Alorithm
+#Greedy Algorithm
 
 Greedy Algorithms is the problem solving technique where we make the locally optimum choice at each stage & hope to achieve a global optimum
 
