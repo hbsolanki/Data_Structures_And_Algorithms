@@ -13,7 +13,8 @@ class LinkedList {
     static Node head;
 
     public static void main(String[] args) {
-
+        addFirst(2);
+        System.out.println(head.data);
     }
     
     public static void addFirst(int data) {
